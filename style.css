@@ -10,11 +10,11 @@
     }
    .Chess-ui{
       
-       color:#f04747;
+       color:#f9b9cf;
        font-size: 70px;
     } 
     .Chess-ui-2{
-        color: #f958e3;
+        color: #cf44bc;
         font-size: 70px;
     }
    .black{
@@ -35,4 +35,8 @@
        display: table-cell;
        vertical-align: middle;
    }
+   
+ .black:hover, .white:hover{
+       background-color: #254631;
+ }
   
