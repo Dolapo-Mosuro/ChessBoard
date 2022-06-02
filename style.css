@@ -1,0 +1,39 @@
+
+    section{
+        width: 450px;
+       height: 450px;
+       text-align: center;
+       margin: 50px;
+       padding: 20px;
+       border: 20px solid #b31255;
+       background-color: #e94f7d;
+       
+    }
+   .Chess-ui{
+      
+       color:#ec6fa9;
+       font-size: 70px;
+    } 
+    .Chess-ui-2{
+        color: #ec6fdb;
+        font-size: 70px;
+    }
+   .black{
+       float: left;
+       width: 90px;
+       height: 90px;
+       background-color: #27121e;
+       text-align: center;
+       display: table-cell;
+       vertical-align: middle;
+   }
+   .white{
+       float: left;
+       width: 90px;
+       height: 90px;
+       background-color: #fcedf5;
+       text-align: center;
+       display: table-cell;
+       vertical-align: middle;
+   }
+  
